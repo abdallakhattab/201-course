@@ -1,0 +1,10 @@
+header {background-color: darkslategrey;}
+body header h1 { color :whitesmoke;}
+body header ul li{ color :whitesmoke}
+body header ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: x-large;
+    text-decoration: none;
+}
+footer {background-color: darkslategray;color: whitesmoke;}

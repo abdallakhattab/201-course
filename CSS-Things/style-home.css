@@ -1,0 +1,18 @@
+header {background-color: darkslategrey;}
+body header h1 { color :whitesmoke;}
+body header ul li{ color :whitesmoke}
+body header ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: x-large;
+    text-decoration: none;
+}
+main ul p {color: whitesmoke;
+background-color: darkslategrey;
+text-decoration: none;}
+body header ul li a{text-decoration: whitesmoke;}
+
+main ul p a {text-decoration: whitesmoke;}
+main img { height: 300px;
+margin-left: 50%;
+margin-top: 0%;}
